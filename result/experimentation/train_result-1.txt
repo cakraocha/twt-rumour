@@ -1,0 +1,13 @@
+Iteration 0 of epoch 0 complete. Loss: 0.7986313104629517; Accuracy: 0.30000001192092896; Time taken (s): 1.1757454872131348
+Iteration 100 of epoch 0 complete. Loss: 0.822314441204071; Accuracy: 0.5; Time taken (s): 90.83431339263916
+Iteration 200 of epoch 0 complete. Loss: 0.2964820861816406; Accuracy: 0.800000011920929; Time taken (s): 98.44588899612427
+Iteration 300 of epoch 0 complete. Loss: 0.526222288608551; Accuracy: 0.800000011920929; Time taken (s): 100.57156729698181
+Iteration 400 of epoch 0 complete. Loss: 0.7539533972740173; Accuracy: 0.800000011920929; Time taken (s): 100.78611063957214
+Epoch 0 complete! Development Accuracy: 0.8793104887008667; Development Loss: 0.27609029148930103
+Best development accuracy improved from 0 to 0.8793104887008667, saving model...
+Iteration 0 of epoch 1 complete. Loss: 0.4065370559692383; Accuracy: 0.800000011920929; Time taken (s): 87.1778666973114
+Iteration 100 of epoch 1 complete. Loss: 0.48492223024368286; Accuracy: 0.699999988079071; Time taken (s): 100.72301316261292
+Iteration 200 of epoch 1 complete. Loss: 0.039094261825084686; Accuracy: 1.0; Time taken (s): 100.55705761909485
+Iteration 300 of epoch 1 complete. Loss: 0.2668457329273224; Accuracy: 0.9000000357627869; Time taken (s): 100.59242701530457
+Iteration 400 of epoch 1 complete. Loss: 0.8288602828979492; Accuracy: 0.699999988079071; Time taken (s): 100.80827784538269
+Epoch 1 complete! Development Accuracy: 0.8741380572319031; Development Loss: 0.3160618998929216
