@@ -12,4 +12,7 @@ The classifier from task 1 will be used on unlabeled COVID-19 related Twitter da
 
 Result summary: A topic modelling performed yielding 5 different mutual key topics identified. On the rumour side, people tend to talk about `cases, deaths, #bailouthumans, lost, job` where on the non-rumour side people tend to talk about `wear, mask, India, vaccine, fauci`.
 
+## Experimentation Code
+Please find in `notebook/` folder for Task 1 and Task 2 codes in Jupyter Notebook.
+
 For more details, please find in `report/` folder.
