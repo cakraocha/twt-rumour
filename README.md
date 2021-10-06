@@ -1,5 +1,5 @@
 # Rumour Detection and Analysis on COVID-19 Twitter Dataset
-*This is a project to complete COMP90042 Natural Language Processing, Semester 1, 2021*
+*This is a project to complete COMP90042 Natural Language Processing, Semester 1, 2021*<br/>
 *Lecturer: Jey Han Lau*
 
 ## Task 1 - Rumour Classifier
